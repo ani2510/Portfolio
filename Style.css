@@ -1,0 +1,22 @@
+#app
+{
+    width: 100%;
+    height: 800 px;
+    background-color: blueviolet;
+    text-align: center;
+}
+#game
+{
+    width: 100%;
+    height: 800 px;
+    background-color: brown;
+    text-align: center;
+}
+#chatbox
+{
+    width: 100%;
+    height: 800 px;
+    background-color: burlywood;
+    text-align: center;
+}
+      
